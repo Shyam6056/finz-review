@@ -1,0 +1,143 @@
+date,description,amount
+2025-01-01,Rent - Main Street Property,-45000
+2025-01-02,POS Settlement Card Sales,33305.0
+2025-01-03,Fresh Farms Vegetable Supplier,-6352.0
+2025-01-04,Eco Packaging Boxes,-3253
+2025-01-04,Metro Wholesale Food,-6776.0
+2025-01-05,Loan EMI HDFC,-20000
+2025-01-05,POS Settlement Card Sales,30471.0
+2025-01-05,Zomato Payout,12475.0
+2025-01-08,Fresh Farms Vegetable Supplier,-7712.0
+2025-01-08,POS Settlement Card Sales,34468.0
+2025-01-09,Metro Wholesale Food,-5286.0
+2025-01-10,BESCOM Electricity Bill,-8940
+2025-01-11,Airtel Broadband,-1499
+2025-01-11,POS Settlement Card Sales,28791.0
+2025-01-12,Zomato Payout,16156.0
+2025-01-13,Fresh Farms Vegetable Supplier,-6985.0
+2025-01-14,Metro Wholesale Food,-5371.0
+2025-01-14,POS Settlement Card Sales,29186.0
+2025-01-15,Google Ads,-4457
+2025-01-16,Notion Subscription,-800
+2025-01-17,POS Settlement Card Sales,36779.0
+2025-01-18,Fresh Farms Vegetable Supplier,-8257.0
+2025-01-19,Metro Wholesale Food,-6738.0
+2025-01-19,Zomato Payout,13758.0
+2025-01-20,Bank Service Charges,-350
+2025-01-20,POS Settlement Card Sales,29542.0
+2025-01-23,Fresh Farms Vegetable Supplier,-6242.0
+2025-01-23,POS Settlement Card Sales,33991.0
+2025-01-24,Metro Wholesale Food,-7316.0
+2025-01-25,Owner Drawings,-25000
+2025-01-26,POS Settlement Card Sales,37548.0
+2025-01-26,Zomato Payout,12307.0
+2025-01-28,Payroll - Staff Salaries,-85000
+2025-01-28,Salary - Chef Ramesh,-30000
+2025-02-01,Rent - Main Street Property,-45000
+2025-02-02,POS Settlement Card Sales,37551.0
+2025-02-03,Fresh Farms Vegetable Supplier,-8214.0
+2025-02-04,Eco Packaging Boxes,-4308
+2025-02-04,Metro Wholesale Food,-5482.0
+2025-02-05,Loan EMI HDFC,-20000
+2025-02-05,POS Settlement Card Sales,29013.0
+2025-02-05,Zomato Payout,13090.0
+2025-02-08,Fresh Farms Vegetable Supplier,-8338.0
+2025-02-08,POS Settlement Card Sales,37455.0
+2025-02-09,Metro Wholesale Food,-6263.0
+2025-02-10,BESCOM Electricity Bill,-7384
+2025-02-11,Airtel Broadband,-1499
+2025-02-11,POS Settlement Card Sales,37593.0
+2025-02-12,Zomato Payout,14372.0
+2025-02-13,Fresh Farms Vegetable Supplier,-8294.0
+2025-02-14,Metro Wholesale Food,-7793.0
+2025-02-14,POS Settlement Card Sales,34499.0
+2025-02-14,Payment to R Kumar,-9000
+2025-02-15,Google Ads,-4762
+2025-02-15,Google Ads,-4762
+2025-02-16,Notion Subscription,-800
+2025-02-17,POS Settlement Card Sales,28812.0
+2025-02-18,Fresh Farms Vegetable Supplier,-6740.0
+2025-02-18,Refund from Metro Wholesale,2500
+2025-02-19,Metro Wholesale Food,-5422.0
+2025-02-19,Zomato Payout,15433.0
+2025-02-20,Bank Service Charges,-350
+2025-02-20,POS Settlement Card Sales,31622.0
+2025-02-23,Fresh Farms Vegetable Supplier,-8382.0
+2025-02-23,POS Settlement Card Sales,28763.0
+2025-02-24,Metro Wholesale Food,-7339.0
+2025-02-25,Owner Drawings,-25000
+2025-02-26,POS Settlement Card Sales,37120.0
+2025-02-26,Zomato Payout,13181.0
+2025-02-28,Payroll - Staff Salaries,-85000
+2025-02-28,Salary - Chef Ramesh,-30000
+2025-03-01,Rent - Main Street Property,-45000
+2025-03-02,POS Settlement Card Sales,34035.4
+2025-03-03,Fresh Farms Vegetable Supplier,-10099.35
+2025-03-04,Eco Packaging Boxes,-4013
+2025-03-04,Metro Wholesale Food,-8406.45
+2025-03-05,Loan EMI HDFC,-20000
+2025-03-05,POS Settlement Card Sales,42520.1
+2025-03-05,Zomato Payout,16758.95
+2025-03-08,Fresh Farms Vegetable Supplier,-9472.95
+2025-03-08,POS Settlement Card Sales,33382.2
+2025-03-09,Metro Wholesale Food,-7743.6
+2025-03-09,UPI 9876543210 misc,-3200
+2025-03-10,BESCOM Electricity Bill,-8792
+2025-03-11,Airtel Broadband,-1499
+2025-03-11,POS Settlement Card Sales,42832.9
+2025-03-12,Purchase Kitchen Oven,-60000
+2025-03-12,Zomato Payout,18186.1
+2025-03-13,Fresh Farms Vegetable Supplier,-11965.05
+2025-03-14,Metro Wholesale Food,-8098.65
+2025-03-14,POS Settlement Card Sales,33322.4
+2025-03-15,Google Ads,-4703
+2025-03-16,Notion Subscription,-800
+2025-03-17,POS Settlement Card Sales,36080.1
+2025-03-18,Fresh Farms Vegetable Supplier,-8552.25
+2025-03-19,Metro Wholesale Food,-9925.2
+2025-03-19,Zomato Payout,19315.4
+2025-03-20,Bank Service Charges,-350
+2025-03-20,POS Settlement Card Sales,41552.95
+2025-03-22,Payment to XYZ Traders,-52000
+2025-03-23,Fresh Farms Vegetable Supplier,-9759.15
+2025-03-23,POS Settlement Card Sales,42217.65
+2025-03-24,Metro Wholesale Food,-9653.85
+2025-03-25,Owner Drawings,-25000
+2025-03-26,POS Settlement Card Sales,40255.75
+2025-03-26,Zomato Payout,18068.8
+2025-03-28,Payroll - Staff Salaries,-85000
+2025-03-28,Salary - Chef Ramesh,-30000
+2025-04-01,Rent - Main Street Property,-45000
+2025-04-02,POS Settlement Card Sales,40655.95
+2025-04-03,Fresh Farms Vegetable Supplier,-11794.95
+2025-04-04,Eco Packaging Boxes,-4187
+2025-04-04,Metro Wholesale Food,-7177.95
+2025-04-05,Loan EMI HDFC,-20000
+2025-04-05,POS Settlement Card Sales,37624.55
+2025-04-05,Zomato Payout,15231.75
+2025-04-08,Fresh Farms Vegetable Supplier,-11184.75
+2025-04-08,POS Settlement Card Sales,43673.55
+2025-04-09,Metro Wholesale Food,-9918.45
+2025-04-10,BESCOM Electricity Bill,-8632
+2025-04-11,Airtel Broadband,-1499
+2025-04-11,POS Settlement Card Sales,33578.85
+2025-04-12,Zomato Payout,18405.75
+2025-04-13,Fresh Farms Vegetable Supplier,-9834.75
+2025-04-14,Metro Wholesale Food,-8630.55
+2025-04-14,POS Settlement Card Sales,34424.1
+2025-04-15,Google Ads,-4934
+2025-04-16,Notion Subscription,-800
+2025-04-17,POS Settlement Card Sales,41845.05
+2025-04-18,Fresh Farms Vegetable Supplier,-11943.45
+2025-04-19,Metro Wholesale Food,-8685.9
+2025-04-19,Zomato Payout,17772.1
+2025-04-20,Bank Service Charges,-350
+2025-04-20,POS Settlement Card Sales,40077.5
+2025-04-23,Fresh Farms Vegetable Supplier,-11385.9
+2025-04-23,POS Settlement Card Sales,35307.3
+2025-04-24,Metro Wholesale Food,-9495.9
+2025-04-25,Owner Drawings,-25000
+2025-04-26,POS Settlement Card Sales,38644.6
+2025-04-26,Zomato Payout,14169.15
+2025-04-28,Payroll - Staff Salaries,-85000
+2025-04-28,Salary - Chef Ramesh,-30000
