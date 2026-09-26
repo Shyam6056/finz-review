@@ -1,4 +1,4 @@
-const BASE = "http://127.0.0.1:8000";
+const BASE = "https://finz-review.onrender.com";
 
 async function handle(res) {
   if (!res.ok) throw new Error(await res.text());
